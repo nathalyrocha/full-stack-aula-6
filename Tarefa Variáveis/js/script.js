@@ -4,12 +4,12 @@ var decimal = 5.5;
 var string = "Nathaly";
 var boolean = true;
 
-
 console.log(inteiroPositivo);
 console.log(inteiroNegativo);
 console.log(decimal);
 console.log(string);
 console.log(boolean);
+
 
 
 
@@ -22,8 +22,10 @@ console.log(nome + " " + sobrenome);
 
 
 
+
 console.log(`Tenho 22 anos, comecei estudar programação ha pouco tempo,
 gosto muito de front-end, porém acho que aprender sobre o back-end é essencial`);
+
 
 
 
@@ -35,9 +37,11 @@ console.log(indefifino);
 
 
 
+
 var frutas = ["Manga", "Maracujá", "Morango", "Melancia", "Melão"];
 
 console.log(frutas);
+
 
 
 
